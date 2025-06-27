@@ -20,7 +20,7 @@ This project implements a simple **Convolutional Neural Network (LeNet-5)** for 
 
 **Note**: The full dataset (`tifinagh-images/`) is too large for GitHub and is therefore not included here.  
 👉 You can download it separately via this link (example):  
-[Download full dataset](https://drive.google.com/TON_LIEN)
+[Download full dataset](https://github.com/sihamTAOUZI/Tifinagh-LeNet5-Classifier.git)
 
 The CSV file `labels-map-fixed.csv` shows the expected folder structure:
 
